@@ -24,4 +24,4 @@ To empower underserved users and regions with decentralized credit by removing r
 
 ## Contract Details
 0x919EE12698f885bEE5574e1411c82C3190215672
-![alt text](image.png)
+![alt text](image.png)  
