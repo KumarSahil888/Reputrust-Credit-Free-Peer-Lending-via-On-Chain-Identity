@@ -1,6 +1,6 @@
 # Project Title: Reputrust: Credit-Free Peer Lending via On-Chain Identity
-project done by Kumar Sahil 
-## Project Description 
+
+## Project Description
 
 Reputrust enables peer-to-peer lending without collateral by leveraging on-chain identity and behavioral reputation scores. It allows users with verified positive histories to access credit lines from the protocol’s liquidity pool.
 
@@ -24,4 +24,4 @@ To empower underserved users and regions with decentralized credit by removing r
 
 ## Contract Details
 0x919EE12698f885bEE5574e1411c82C3190215672
-![alt text](image.png)   
+![alt text](image.png)
