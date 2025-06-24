@@ -59,7 +59,7 @@ contract Reputrust {
     function setReputation(address user, uint256 score) external {
         require(msg.sender == owner, "Only owner");
         reputation[user] = score;
-    }
+    } 
 
     function contractBalance() external view returns (uint256) {
         return address(this).balance;
