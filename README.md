@@ -14,7 +14,7 @@ To empower underserved users and regions with decentralized credit by removing r
 - Dynamic reputation tracking and incentive mechanism
 - Public loan registry for transparency
 - Lenders deposit funds into a shared liquidity pool
-
+ 
 ## Future Scope
 
 - Integration with decentralized identity (DID) frameworks
