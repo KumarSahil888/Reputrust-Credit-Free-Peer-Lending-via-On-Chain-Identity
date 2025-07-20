@@ -3,7 +3,7 @@
 ## Project Description  
 
 Reputrust enables peer-to-peer lending without collateral by leveraging on-chain identity and behavioral reputation scores. It allows users with verified positive histories to access credit lines from the protocol’s liquidity pool.
-
+ 
 ## Project Vision
 
 To empower underserved users and regions with decentralized credit by removing reliance on centralized credit checks and collateral-heavy systems.
