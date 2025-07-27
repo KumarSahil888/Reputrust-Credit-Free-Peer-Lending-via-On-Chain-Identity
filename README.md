@@ -1,4 +1,4 @@
-# Project Title: Reputrust: Credit-Free Peer Lending via On-Chain Identity
+# Project Title: Reputrust: Credit-Free Peer Lending via On-Chain Identity 
 
 ## Project Description      
  
