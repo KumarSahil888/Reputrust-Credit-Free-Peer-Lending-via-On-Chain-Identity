@@ -7,7 +7,7 @@ Reputrust enables peer-to-peer lending without collateral by leveraging on-chain
 ## Project Vision 
 
 To empower underserved users and regions with decentralized credit by removing reliance on centralized credit checks and collateral-heavy systems.
-
+ 
 ## Key Features
 
 - Loan requests based on trust, not collateral
